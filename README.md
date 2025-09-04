@@ -93,8 +93,8 @@ We have built an **interactive Streamlit app** for easy churn prediction.
 
 **Screenshot of the app:**
 
-![Streamlit App Screenshot](app/app_screenshot1.png)
-![Streamlit App Screenshot](app/app_screenshot2.png)
+![Streamlit App Screenshot](app_screenshot1.png)
+![Streamlit App Screenshot](app_screenshot2.png)
 
 **How to Run:**
 1. Ensure `models/churn_xgb_pipeline.joblib` and `models/churn_feature_cols.joblib` are in the same folder as `app/app.py`.
