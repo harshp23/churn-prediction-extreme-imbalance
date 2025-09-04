@@ -19,14 +19,6 @@ We focus on handling **extremely imbalanced data**, preprocessing features, trai
 
 ---
 
-## Dataset
-- **Churn labels** are extremely imbalanced:
-  - `1 (churn)` → 99.64% of samples  
-  - `0 (non-churn)` → 0.36% of samples  
-- Features include numerical and categorical columns (specific features saved in `models/churn_feature_cols.joblib`).
-
----
-
 ## Challenges Faced
 1. **Extreme imbalance**:
    - Original distribution had almost no non-churn samples.
